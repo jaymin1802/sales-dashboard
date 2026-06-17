@@ -68,14 +68,4 @@ The dashboard includes:
 * Advanced customer segmentation
 * Automated report refresh
 
-## Author
 
-Jaymin Kumbhani
-
-## Contact
-
-Feel free to connect for feedback, suggestions, or collaboration.
-
----
-
-**Power BI Sales Dashboard Project for Data Analytics Portfolio**
